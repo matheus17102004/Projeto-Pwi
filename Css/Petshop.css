@@ -46,11 +46,13 @@ nav a:haver{
     
     .fundo-verde{
         background-color: #bdff9c;
+
     }
     
     .container{
         width: 900px;
         margin: 0 auto;
+        padding: 56px 0;
     }
     
     .flex-container{
