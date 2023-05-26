@@ -98,3 +98,9 @@ nav a:haver{
     #produto .flex-container{
         margin-top: 43px;
     }
+
+footer{
+    text-align: center;
+    background-image: url(../Img/fundo-topo.jpg);
+    padding: 10px 0;
+}
